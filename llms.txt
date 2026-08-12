@@ -1,0 +1,15 @@
+# api-documentation
+> OpenAPI 3.0 generator from code-defined routes: define(method, path, {...}) with a tiny schema notation, emit valid openapi.json plus a markdown reference. Zero dependencies.
+
+An OpenAPI 3.0 generator driven from code-defined routes, not YAML. Call `define(method, path, {...})` with a tiny schema notation, get back a structurally valid `openapi.json` plus a markdown reference page.
+
+## API
+- `ApiDocumentation`
+- `extractPathParams`
+- `toOpenApiSchema`
+- `toMarkdown`
+
+## Install
+Each library is a standalone GitHub repo under github.com/Ruzylo-cloud.
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai
