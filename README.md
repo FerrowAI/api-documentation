@@ -1,4 +1,8 @@
 # api-documentation
+
+```sh
+npm install @ferrow/api-documentation
+```
 ![CI](https://github.com/FerrowAI/api-documentation/actions/workflows/ci.yml/badge.svg)
 
 An OpenAPI 3.0 generator driven from code-defined routes, not YAML. Call

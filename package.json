@@ -1,5 +1,5 @@
 {
-  "name": "api-documentation",
+  "name": "@ferrow/api-documentation",
   "version": "2.0.0",
   "description": "OpenAPI 3.0 generator from code-defined routes: define(method, path, {...}) with a tiny schema notation, emit valid openapi.json plus a markdown reference. Zero dependencies.",
   "main": "dist/src/index.js",

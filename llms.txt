@@ -1,4 +1,6 @@
 # api-documentation
+
+Install: npm install @ferrow/api-documentation
 > OpenAPI 3.0 generator from code-defined routes: define(method, path, {...}) with a tiny schema notation, emit valid openapi.json plus a markdown reference. Zero dependencies.
 
 An OpenAPI 3.0 generator driven from code-defined routes, not YAML. Call `define(method, path, {...})` with a tiny schema notation, get back a structurally valid `openapi.json` plus a markdown reference page.
